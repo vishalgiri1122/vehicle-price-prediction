@@ -1,0 +1,13 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local virtual environment
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+data/bluebook-for-bulldozers/Train.csv
+data/bluebook-for-bulldozers/TrainAndValid.csv
+data/bluebook-for-bulldozers/train_temp.csv
