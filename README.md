@@ -24,7 +24,7 @@ The data used in this project is from the [**Blue Book for Bulldozers** competit
 - End-to-end pipeline from raw data to price prediction.
 - Preprocessing: missing values, categorical encoding, and date feature extraction.
 - Model: RandomForestRegressor with hyperparameter tuning.
-- Evaluation metrics: MAE, R² score.
+- Evaluation metrics: MAE, RÂ² score.
 
 ##  How to Run
 
